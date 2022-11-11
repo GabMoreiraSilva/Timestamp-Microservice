@@ -4,6 +4,6 @@ Esse é um micro serviço que trabalha com datas em formatos UNIX e UTC, onde pa
 Também foi implementado um Request Logger Middleware.
 
 ## Nesse projeto foi usado conhecimentos como
-> Static assets
-> Implement a Root-Level Request Logger Middleware
-> Get Route Parameter Input from the Client
+- Static assets
+- Implement a Root-Level Request Logger Middleware
+- Get Route Parameter Input from the Client
