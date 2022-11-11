@@ -7,3 +7,5 @@ Também foi implementado um Request Logger Middleware.
 - Static assets
 - Implement a Root-Level Request Logger Middleware
 - Get Route Parameter Input from the Client
+
+O projeto está hospedado basta clicar nesse [link](https://boilerplate-project-timestamp.gabmoreirasilva.repl.co/) para ver funcionando.
